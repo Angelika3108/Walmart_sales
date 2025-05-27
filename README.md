@@ -1,11 +1,11 @@
-# 📊 Walmart Weekly Sales Analysis (Power BI + SQL)
+# 📊 Walmart Weekly Sales Analysis 2010-2012 (Power BI + SQL + Python)
 
-This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Power BI. It uncovers business insights based on store performance, holiday trends, and external economic factors such as temperature, unemployment, and fuel prices.
+This project uncovers business insights based on store performance, holiday trends, and external economic factors such as temperature, unemployment, and fuel prices.
 
 ---
 ## 🛠 Tools Used
 - **SQL (MySQL)** – Data querying and transformation
-- **Python (pandas + SQLAlchemy)** – Query automation and export to Excel
+- **Python (pandas + SQLAlchemy + Prophet)** – Query automation, export to Excel, forecast
 - **Power BI** – Dashboard design and data storytelling
 
 ---
