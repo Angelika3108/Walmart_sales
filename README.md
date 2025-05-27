@@ -3,21 +3,12 @@
 This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Power BI. It uncovers business insights based on store performance, holiday trends, and external economic factors such as temperature, unemployment, and fuel prices.
 
 ---
-
-## 📁 Dataset
-- **Source**: Provided CSV of historical weekly sales
-- **Duration**: February 2010 – October 2012
-- **Features**: Store ID, weekly sales, holiday flags, temperature, fuel price, CPI, unemployment
-
----
-
 ## 🛠 Tools Used
 - **SQL (MySQL)** – Data querying and transformation
 - **Python (pandas + SQLAlchemy)** – Query automation and export to Excel
 - **Power BI** – Dashboard design and data storytelling
 
 ---
-
 ## 🔍 Key Insights
 
 ### 📌 Overview
@@ -35,7 +26,6 @@ This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Po
 - These stores consistently averaged over $2M/week in sales.
 
 ---
-
 ### 📅 Weekly Sales Trends
 - Sales spike predictably in **November–December**, especially around **Black Friday and Christmas**
 - **Top 6 highest sales weeks** include:
@@ -43,7 +33,6 @@ This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Po
   - 23 December 2011 – \$76.9M
 
 ---
-
 ### 🧨 Holiday Impact
 - Holiday weeks generated **7.5% of total sales**:
   - **Holiday weeks**: \$0.51B
@@ -53,7 +42,6 @@ This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Po
   - Non-holiday: \$1.04M
 
 ---
-
 ### 🌡️ External Factors Influence
 
 #### 🔥 Temperature
@@ -72,7 +60,6 @@ This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Po
 - Avg sales cluster around fuel price of \$2.5–\$3.5
 
 ---
-
 ## 📊 Dashboard Highlights
 
 ![dashboard1](output/Charts1.jpg)
