@@ -81,7 +81,10 @@ This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Po
 
 
 ---
+## 📈 Forecasting Future Sales
 
-## 🚀 Next Steps (Optional Enhancements)
-- Forecasting weekly sales using Power BI analytics or Prophet in Python
-- Predictive modeling based on external variables
+
+![Walmart Sales Forecast](output/forecast.jpg)
+
+- Sales forecasts were generated using **Prophet**, projecting 24 future weeks based on trends, seasonality, and historical patterns. 
+- Forecast outputs were visualized and can be integrated into decision-making on staffing, inventory, and promotions.
