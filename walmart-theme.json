@@ -1,0 +1,7 @@
+{
+  "name": "Walmart Theme",
+  "dataColors": ["#0071ce", "#ffc220", "#5d5d5d", "#00b0f0", "#92d050", "#7030a0"],
+  "background": "#ffffff",
+  "foreground": "#000000",
+  "tableAccent": "#0071ce"
+}
