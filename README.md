@@ -74,4 +74,4 @@ This project uncovers business insights based on store performance, holiday tren
 ![Walmart Sales Forecast](output/forecast.jpg)
 
 - Sales forecasts were generated using **Prophet**, projecting 24 future weeks based on trends, seasonality, and historical patterns. 
-- Forecast outputs were visualized and can be integrated into decision-making on staffing, inventory, and promotions.
+- Forecasts can be integrated into decision-making on staffing, inventory, and promotions.
