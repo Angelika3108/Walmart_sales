@@ -27,6 +27,14 @@ This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Po
 - 🏪 **Avg Weekly Sales per Store**: \$1.05 million
 
 ---
+## 🏬 Top Performing Stores
+- Store 20 had the highest total sales: $301M
+- Other high performers:
+- Store 4: $299M
+- Store 14: $289M
+- These stores consistently averaged over $2M/week in sales.
+
+---
 
 ### 📅 Weekly Sales Trends
 - Sales spike predictably in **November–December**, especially around **Black Friday and Christmas**
@@ -66,26 +74,14 @@ This project analyzes Walmart's weekly sales data (2010–2012) using SQL and Po
 ---
 
 ## 📊 Dashboard Highlights
-Included visuals:
-- Line chart of weekly sales trend
-- Funnel chart showing sales by holiday flag
-- External factors comparison (temp, fuel, unemployment)
-- Top sales weeks table
-- KPI cards and slicers for Year and Store
 
-📎 See [Dashboard PDF](./Walmart_weekly_sales.pdf)
+![dashboard1](output/Charts1.jpg)
 
----
+![dashboard2](output/Charts2.jpg)
 
-## 🎯 Skills Demonstrated
-- SQL for data aggregation and time-series analysis
-- Python for data pipeline automation
-- Power BI for interactive dashboarding and KPI design
-- Insight storytelling with visual clarity
 
 ---
 
 ## 🚀 Next Steps (Optional Enhancements)
 - Forecasting weekly sales using Power BI analytics or Prophet in Python
 - Predictive modeling based on external variables
-
