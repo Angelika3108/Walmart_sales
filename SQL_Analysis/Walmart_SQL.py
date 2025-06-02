@@ -34,10 +34,9 @@ queries = {
             ROUND(AVG(Weekly_Sales), 2) AS Avg_Sales
         FROM walmart_sales
         GROUP BY Unemployment_Level;"""
-    # Add more queries here...
 }
 
-# Export to Excel with multiple sheets
+# Export SQL queries results to Excel 
 with pd.ExcelWriter("Walmart_SQL_Analysis.xlsx", engine="openpyxl") as writer:
     for sheet_name, query in queries.items():
         df = pd.read_sql(query, db_engine)
